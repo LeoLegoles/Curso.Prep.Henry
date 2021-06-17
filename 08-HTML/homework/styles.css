@@ -1,0 +1,50 @@
+h1 {
+    color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+
+}
+h4 {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px; width: 500px; 
+    background: red; 
+    padding: 50px; 
+    border: 10px black solid; 
+}
+#spanId {
+    font-size: 18px; 
+    margin: 50px;
+    color: rgb(255, 238, 0);
+    font-weight: bold;
+}
+body {
+    background-image: url("https://www.dogmagestion.com/wp-content/uploads/2018/12/Dogma-Gestion-Club-Milanesa-Protagonista-Restaurant-Negocios-B2B-670x360.jpg");
+}         
+div {
+    margin: 0 auto; 
+}
+.divClass {
+    width: 650px;
+}
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color:blue;
+}
